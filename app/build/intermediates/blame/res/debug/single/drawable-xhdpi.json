@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable-xhdpi/selected.png",
+        "source": "/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/src/main/res/drawable-xhdpi/selected.png"
+    },
+    {
+        "merged": "/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable-xhdpi/unselected_image.png",
+        "source": "/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/src/main/res/drawable-xhdpi/unselected_image.png"
+    }
+]

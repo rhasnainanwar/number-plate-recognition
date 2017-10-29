@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable-hdpi/unselected_image.png",
+        "source": "/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/src/main/res/drawable-hdpi/unselected_image.png"
+    },
+    {
+        "merged": "/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable-hdpi/selected.png",
+        "source": "/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/src/main/res/drawable-hdpi/selected.png"
+    }
+]

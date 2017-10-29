@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/hassaan/.android/build-cache/d9e00b41e404cb5f682dcc0ddbf85b6f0e0f23bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/classes_d9ec08d83b587b0f09a2cced349b8834720d63bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hassaan/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_683bdb3f766f719fe3b1a0037d4c48c339009351.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hassaan/AndroidStudioProjects/ocr-reader-complete/libs/jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5df02f295714ac1b907d507dfea29a5a9f8f69ca">
+        <dex dex="/home/hassaan/AndroidStudioProjects/ocr-reader-complete/app/build/intermediates/pre-dexed/debug/jsoup-1.10.3_94e17bf05703e3b8bb561cab010ce6b5d26256dc.jar" />
+    </item>
+
+</items>
